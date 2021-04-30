@@ -6,7 +6,7 @@ body{
 }
 
 video {
-  width 400px;
+  width: 60%;;
 }
 
 
@@ -17,7 +17,7 @@ video {
   font-weight: inherit;
   font-size: 18px;
   line-height: 140%;
-  width: 700px;
+  width: 60%;
   padding: 10px;
   align: center;
   border: 2px solid gray;
@@ -38,6 +38,10 @@ video {
   position: relative;
   left: 80px;
   top: 2px;
+}
+
+.kart {
+  width: 80%
 }
 
 .nav {
