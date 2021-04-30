@@ -5,6 +5,10 @@ body{
   flex-direction: column;
 }
 
+video {
+  width 400px;
+}
+
 
 .box {
   font-family: "MaisonNeue", "Segoe UI", "Helvetica Neue", -apple-system,
@@ -24,6 +28,12 @@ body{
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.easteregg {
+  border-width: 0px;
+  background-color: transparent;
+}
+
 .info {
   position: relative;
   left: 80px;
