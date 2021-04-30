@@ -64,7 +64,8 @@ video {
 
 .skog {
   width: 70%;
-  align: center;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 
