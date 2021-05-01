@@ -9,6 +9,12 @@ video {
   width: 60%;;
 }
 
+h1 {
+  font-family: "MaisonNeue", "Segoe UI", "Helvetica Neue", -apple-system,
+  system-ui, BlinkMacSystemFont, Roboto, Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
 
 .box {
   font-family: "MaisonNeue", "Segoe UI", "Helvetica Neue", -apple-system,
@@ -17,7 +23,7 @@ video {
   font-weight: inherit;
   font-size: 18px;
   line-height: 140%;
-  width: 70%;
+  width: 75%;
   padding: 10px;
   align: center;
   border: 0px solid gray;
